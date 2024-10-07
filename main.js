@@ -11,4 +11,6 @@ cartao.innerHTML = `<div class="conteudo-cartao">
     </div>
 </div>
 `
+
+container.appendChild(cartao);
 }
